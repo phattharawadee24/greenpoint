@@ -452,7 +452,7 @@ class ProfilePage extends StatelessWidget {
                 Row(
                   children: [
                     const Text(
-                      'Mr. G',
+                      'phattharawadee',
                       style: TextStyle(
                         fontSize: 20,
                         fontWeight: FontWeight.bold,
